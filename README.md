@@ -90,7 +90,7 @@ All the course slide can be found at this [directory](https://github.com/Yogayu/
 - What is Artificial Intelligence?
 - What is Machine Learning?
 - What is Deep Learning?
-- Limitation of deep learning
+- Limitation of Deep Learning
 
 ### Lesson2-perceptron & Multilayer perceptron
 
