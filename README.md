@@ -138,8 +138,8 @@ All the course slide can be found at this [directory](https://github.com/Yogayu/
   - Example
   - Local Compute
   - Compute Graph Advantage
-- The Chain Rule
-- Compute graph & Chain Rule
+- The Chain Rule 
+- Compute graph & Chain Rule using Partial Derivatives 
 - Back propagation
   - Back propagation of addition nodes
   - Back propagation of multiplication nodes
